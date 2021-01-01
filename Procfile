@@ -1,1 +1,1 @@
-web: gunicorn main:app --timeout 1200 --log-file
+web: gunicorn main:app --timeout 999 --log-file
